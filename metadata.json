@@ -1,0 +1,6 @@
+{
+  "name": "Guia de Saúde Comunitária",
+  "description": "Chatbot de saúde básica focado em malária, cólera e saúde reprodutiva, adaptado ao contexto de Moçambique e África Subsariana.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
